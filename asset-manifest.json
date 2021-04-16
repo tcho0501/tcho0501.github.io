@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.9963c1db.chunk.js",
-    "main.js.map": "/static/js/main.9963c1db.chunk.js.map",
+    "main.js": "/static/js/main.e3c90c0e.chunk.js",
+    "main.js.map": "/static/js/main.e3c90c0e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e014a4b8.js",
     "runtime-main.js.map": "/static/js/runtime-main.e014a4b8.js.map",
-    "static/js/2.994459c2.chunk.js": "/static/js/2.994459c2.chunk.js",
-    "static/js/2.994459c2.chunk.js.map": "/static/js/2.994459c2.chunk.js.map",
+    "static/js/2.0296b349.chunk.js": "/static/js/2.0296b349.chunk.js",
+    "static/js/2.0296b349.chunk.js.map": "/static/js/2.0296b349.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.994459c2.chunk.js.LICENSE.txt": "/static/js/2.994459c2.chunk.js.LICENSE.txt",
+    "static/js/2.0296b349.chunk.js.LICENSE.txt": "/static/js/2.0296b349.chunk.js.LICENSE.txt",
     "static/media/Gible.ef821932.png": "/static/media/Gible.ef821932.png",
     "static/media/Tim_Cho_Resume_2020.b1132566.pdf": "/static/media/Tim_Cho_Resume_2020.b1132566.pdf",
     "static/media/pfp.2126b71f.jpg": "/static/media/pfp.2126b71f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e014a4b8.js",
-    "static/js/2.994459c2.chunk.js",
+    "static/js/2.0296b349.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9963c1db.chunk.js"
+    "static/js/main.e3c90c0e.chunk.js"
   ]
 }
